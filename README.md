@@ -11,7 +11,7 @@ API para cadastro de produtos e categorias.
 1. Clone o repositório
 
 ```bash
-git clone git clone https://github.com/jmarcos16/des-api && cd des-api
+git clone https://github.com/jmarcos16/des-api.git && cd des-api
 ```
 
 2. Instale as dependências
